@@ -28,6 +28,7 @@ A full-stack web application with secure authentication, role-based authorizatio
 The Mini User Management System demonstrates enterprise-level authentication and authorization patterns with a clean architecture. It supports admin and user roles, enabling administrators to manage users while allowing users to manage their own profiles securely.
 
 **Live Demo: **https://drive.google.com/file/d/1pO3CwwrZorliQUbYU53ONnaZ9V4uX-2G/view?usp=sharing**
+**Deployed Link: https://miniusermanager.netlify.app/**
 
 ### Key Highlights
 
